@@ -1,4 +1,4 @@
-# Update From 1.9 to 1.10.2
+# Update From 1.9 to 1.10.2 (Discontinued)
 
 ###Updates Links:
 
